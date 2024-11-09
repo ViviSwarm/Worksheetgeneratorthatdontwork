@@ -1,1 +1,1 @@
-This application is generates exam questions, lets the user select what topics they want to pratice and marks it for them
+This application is generates exam questions, lets the user select what topics they want to pratice and marks it for them. Idealy chat GPT generation will be added to assist in the generation, but that feature is yet to be implemented
